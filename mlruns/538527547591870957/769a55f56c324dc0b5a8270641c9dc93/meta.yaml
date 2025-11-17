@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/538527547591870957/769a55f56c324dc0b5a8270641c9dc93/artifacts
+end_time: 1763369144628
+entry_point_name: ''
+experiment_id: '538527547591870957'
+lifecycle_stage: active
+run_id: 769a55f56c324dc0b5a8270641c9dc93
+run_name: learned-moose-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763369143945
+status: 3
+tags: []
+user_id: Saurabh

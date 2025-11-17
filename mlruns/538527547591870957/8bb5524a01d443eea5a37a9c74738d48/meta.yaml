@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/538527547591870957/8bb5524a01d443eea5a37a9c74738d48/artifacts
+end_time: 1763371585886
+entry_point_name: ''
+experiment_id: '538527547591870957'
+lifecycle_stage: active
+run_id: 8bb5524a01d443eea5a37a9c74738d48
+run_name: masked-seal-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763371566607
+status: 3
+tags: []
+user_id: Saurabh

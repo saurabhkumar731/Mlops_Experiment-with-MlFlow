@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/538527547591870957/8d5f730f68184d93bcfb59a362eeed05/artifacts
+deleted_time: 1763371613491
+end_time: 1763371449683
+entry_point_name: ''
+experiment_id: '538527547591870957'
+lifecycle_stage: deleted
+run_id: 8d5f730f68184d93bcfb59a362eeed05
+run_name: indecisive-goose-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763371448990
+status: 4
+tags: []
+user_id: Saurabh

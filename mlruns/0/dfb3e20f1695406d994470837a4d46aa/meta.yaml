@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dfb3e20f1695406d994470837a4d46aa/artifacts
+end_time: 1763358611772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfb3e20f1695406d994470837a4d46aa
+run_name: traveling-jay-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763358611722
+status: 3
+tags: []
+user_id: Saurabh

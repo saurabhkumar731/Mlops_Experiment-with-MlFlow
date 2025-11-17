@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4f6ca55e90e84b6281fbe432c499a322/artifacts
+end_time: 1763357828867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6ca55e90e84b6281fbe432c499a322
+run_name: serious-croc-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763357828780
+status: 3
+tags: []
+user_id: Saurabh

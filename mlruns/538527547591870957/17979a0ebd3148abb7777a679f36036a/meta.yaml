@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/538527547591870957/17979a0ebd3148abb7777a679f36036a/artifacts
+end_time: 1763376605253
+entry_point_name: ''
+experiment_id: '538527547591870957'
+lifecycle_stage: active
+run_id: 17979a0ebd3148abb7777a679f36036a
+run_name: rebellious-skunk-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763376595577
+status: 3
+tags: []
+user_id: Saurabh

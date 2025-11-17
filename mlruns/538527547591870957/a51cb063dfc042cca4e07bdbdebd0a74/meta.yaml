@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/538527547591870957/a51cb063dfc042cca4e07bdbdebd0a74/artifacts
+end_time: 1763376216222
+entry_point_name: ''
+experiment_id: '538527547591870957'
+lifecycle_stage: active
+run_id: a51cb063dfc042cca4e07bdbdebd0a74
+run_name: glamorous-perch-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763376206078
+status: 3
+tags: []
+user_id: Saurabh

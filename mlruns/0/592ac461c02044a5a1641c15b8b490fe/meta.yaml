@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/592ac461c02044a5a1641c15b8b490fe/artifacts
+end_time: 1763360103406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 592ac461c02044a5a1641c15b8b490fe
+run_name: vaunted-wasp-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763360103026
+status: 3
+tags: []
+user_id: Saurabh
