@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/3d06ec01faaf41aa86caeb8a132b126d/artifacts
+end_time: 1763379263277
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 3d06ec01faaf41aa86caeb8a132b126d
+run_name: unleashed-moose-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379263206
+status: 3
+tags: []
+user_id: Saurabh

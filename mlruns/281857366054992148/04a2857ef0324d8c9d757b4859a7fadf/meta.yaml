@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/04a2857ef0324d8c9d757b4859a7fadf/artifacts
+end_time: 1763379262686
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 04a2857ef0324d8c9d757b4859a7fadf
+run_name: valuable-fly-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379262616
+status: 3
+tags: []
+user_id: Saurabh

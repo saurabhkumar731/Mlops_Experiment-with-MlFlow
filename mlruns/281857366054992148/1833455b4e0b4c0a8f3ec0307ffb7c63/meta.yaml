@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/1833455b4e0b4c0a8f3ec0307ffb7c63/artifacts
+end_time: 1763379262544
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 1833455b4e0b4c0a8f3ec0307ffb7c63
+run_name: bold-mule-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379262457
+status: 3
+tags: []
+user_id: Saurabh

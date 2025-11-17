@@ -1,0 +1,15 @@
+creation_timestamp: 1763380080683
+current_stage: Staging
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1763380224372
+model_id: m-18a2b5bf0c164ba785e18d8d4c90a838
+name: Saurabh-model-1
+run_id: 012e7fcd654d4ad5a5d6d3abb1e1cd7c
+run_link: ''
+source: models:/m-18a2b5bf0c164ba785e18d8d4c90a838
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/models/m-18a2b5bf0c164ba785e18d8d4c90a838/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/012e7fcd654d4ad5a5d6d3abb1e1cd7c/artifacts
+end_time: 1763379267385
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 012e7fcd654d4ad5a5d6d3abb1e1cd7c
+run_name: enthused-stoat-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379257807
+status: 3
+tags: []
+user_id: Saurabh

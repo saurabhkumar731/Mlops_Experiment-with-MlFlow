@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/7035667e00904496a7e4871bee509c20/artifacts
+end_time: 1763379262756
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 7035667e00904496a7e4871bee509c20
+run_name: capable-sponge-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379262693
+status: 3
+tags: []
+user_id: Saurabh

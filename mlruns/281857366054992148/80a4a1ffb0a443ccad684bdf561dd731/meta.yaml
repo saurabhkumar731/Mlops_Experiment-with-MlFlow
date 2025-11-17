@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/80a4a1ffb0a443ccad684bdf561dd731/artifacts
+end_time: 1763379262971
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 80a4a1ffb0a443ccad684bdf561dd731
+run_name: charming-yak-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379262901
+status: 3
+tags: []
+user_id: Saurabh

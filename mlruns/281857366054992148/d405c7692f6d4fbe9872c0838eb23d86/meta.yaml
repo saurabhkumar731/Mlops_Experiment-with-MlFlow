@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/d405c7692f6d4fbe9872c0838eb23d86/artifacts
+end_time: 1763379263201
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: d405c7692f6d4fbe9872c0838eb23d86
+run_name: melodic-dove-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379263137
+status: 3
+tags: []
+user_id: Saurabh

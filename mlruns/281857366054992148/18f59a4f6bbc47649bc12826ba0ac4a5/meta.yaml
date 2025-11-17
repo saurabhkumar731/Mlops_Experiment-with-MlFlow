@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/18f59a4f6bbc47649bc12826ba0ac4a5/artifacts
+deleted_time: 1763379229598
+end_time: 1763379077487
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: deleted
+run_id: 18f59a4f6bbc47649bc12826ba0ac4a5
+run_name: luxuriant-moose-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379072550
+status: 4
+tags: []
+user_id: Saurabh

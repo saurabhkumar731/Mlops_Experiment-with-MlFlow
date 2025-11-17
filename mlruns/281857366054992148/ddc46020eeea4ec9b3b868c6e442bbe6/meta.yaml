@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/ddc46020eeea4ec9b3b868c6e442bbe6/artifacts
+end_time: 1763379263054
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: ddc46020eeea4ec9b3b868c6e442bbe6
+run_name: unique-deer-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763379262977
+status: 3
+tags: []
+user_id: Saurabh

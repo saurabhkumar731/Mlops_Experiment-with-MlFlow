@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Saurabh/Desktop/MLOps/Mlops_Experiment-with-MlFlow/mlruns/281857366054992148/929a55b0ad5147d69d3078f4730cb4cb/artifacts
+end_time: 1763378589210
+entry_point_name: ''
+experiment_id: '281857366054992148'
+lifecycle_stage: active
+run_id: 929a55b0ad5147d69d3078f4730cb4cb
+run_name: thundering-rat-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763378580522
+status: 3
+tags: []
+user_id: Saurabh
